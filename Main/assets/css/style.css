@@ -19,7 +19,7 @@ h1 {
 
 h1,
 h2, 
-h3, {
+h3 {
   margin: 20px;
 }
 
@@ -49,14 +49,14 @@ footer {
 
 header {
   position: fixed;
-  border-bottom: 10px solid #686666;
+  border-bottom: 20px solid #686666;
 }
 
 footer {
   position: absolute;
   margin-top: 0;
   bottom: 0;
-  border-bottom: 10px solid #726c6b;
+  border-bottom: 15px solid #726c6b;
   color: #ddccb3;    
 }
 
